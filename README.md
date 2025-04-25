@@ -32,7 +32,8 @@ The AI is implemented using the Minimax algorithm with a simple evaluation funct
 
 ## 📸 Screenshots
 
-*(Add screenshots of the game here)*
+![alt text](image.png)
+
 
 ---
 
